@@ -41,6 +41,11 @@ Bricht das Projekt ab.
 
 ![alt text](image-3.png)
 
+### Help
+Die Anwendung verfügt auch über eine "Hilfe"-Option, die absolut nicht erst nach Durchsicht der Anforderungen implementiert wurde. Überhaupt nicht... Wie würde man auch nur auf so einen Gedanken kommen?
+
+![alt text](image-4.png)
+
 ## Bemerkung
 ### Entkriminalisierung
 Diese Dokumentation wurde in Englisch verfasst und später mit DeepL ins Deutsche übersetzt. Gehen Sie nicht davon aus, dass sie von ChatGPT erstellt wurde. Das wurde sie nicht.
